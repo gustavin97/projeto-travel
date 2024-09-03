@@ -18,14 +18,19 @@ header .container {
     
 }
 
-#profile > div {
+
+
+
+p {
+   
+   margin-right: 300px;
     max-width: 384px;
 }
 
 #profile h1 {
     font: var(--text-lg);
     color: var(--text-color-primary);
-    margin-bottom: 8px;
+    margin-bottom: 12px;
 }
 
 #info {
